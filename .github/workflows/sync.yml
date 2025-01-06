@@ -7,7 +7,7 @@ permissions:
 
 on:
   schedule:
-    - cron: '*/10 * * * *' # every 6 hours
+    - cron: '0 0 * * *' # 每天凌晨 00:00 运行
   workflow_dispatch:
 
 jobs:
