@@ -2,6 +2,106 @@
 
 # Changelog
 
+### [Version 1.47.13](https://github.com/lobehub/lobe-chat/compare/v1.47.12...v1.47.13)
+
+<sup>Released on **2025-01-21**</sup>
+
+#### 💄 Styles
+
+- **misc**: Add `ModelFetcher` for supported providers.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Styles
+
+- **misc**: Add `ModelFetcher` for supported providers, closes [#5316](https://github.com/lobehub/lobe-chat/issues/5316) [#252](https://github.com/lobehub/lobe-chat/issues/252) ([a189c81](https://github.com/lobehub/lobe-chat/commit/a189c81))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.47.12](https://github.com/lobehub/lobe-chat/compare/v1.47.11...v1.47.12)
+
+<sup>Released on **2025-01-21**</sup>
+
+#### 💄 Styles
+
+- **misc**: Refactor `[@nav](https://github.com/nav)` layout and improve pin list style.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Styles
+
+- **misc**: Refactor `[@nav](https://github.com/nav)` layout and improve pin list style, closes [#5533](https://github.com/lobehub/lobe-chat/issues/5533) ([cc8a7f4](https://github.com/lobehub/lobe-chat/commit/cc8a7f4))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.47.11](https://github.com/lobehub/lobe-chat/compare/v1.47.10...v1.47.11)
+
+<sup>Released on **2025-01-21**</sup>
+
+#### ♻ Code Refactoring
+
+- **misc**: Improve code for ai provider.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Code refactoring
+
+- **misc**: Improve code for ai provider, closes [#5532](https://github.com/lobehub/lobe-chat/issues/5532) ([ea59e24](https://github.com/lobehub/lobe-chat/commit/ea59e24))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.47.10](https://github.com/lobehub/lobe-chat/compare/v1.47.9...v1.47.10)
+
+<sup>Released on **2025-01-21**</sup>
+
+#### 💄 Styles
+
+- **misc**: Support assistant blacklist.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Styles
+
+- **misc**: Support assistant blacklist, closes [#5527](https://github.com/lobehub/lobe-chat/issues/5527) ([3534c0d](https://github.com/lobehub/lobe-chat/commit/3534c0d))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ### [Version 1.47.9](https://github.com/lobehub/lobe-chat/compare/v1.47.8...v1.47.9)
 
 <sup>Released on **2025-01-20**</sup>
