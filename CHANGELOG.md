@@ -2,6 +2,114 @@
 
 # Changelog
 
+### [Version 1.47.17](https://github.com/lobehub/lobe-chat/compare/v1.47.16...v1.47.17)
+
+<sup>Released on **2025-01-22**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Upgrade `react-i18next` to ^15.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Upgrade `react-i18next` to ^15, closes [#5553](https://github.com/lobehub/lobe-chat/issues/5553) ([d0275fd](https://github.com/lobehub/lobe-chat/commit/d0275fd))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.47.16](https://github.com/lobehub/lobe-chat/compare/v1.47.15...v1.47.16)
+
+<sup>Released on **2025-01-22**</sup>
+
+#### ♻ Code Refactoring
+
+- **misc**: Move hooks and component.
+
+#### 💄 Styles
+
+- **misc**: Add gemini new model.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Code refactoring
+
+- **misc**: Move hooks and component, closes [#5551](https://github.com/lobehub/lobe-chat/issues/5551) ([c5db091](https://github.com/lobehub/lobe-chat/commit/c5db091))
+
+#### Styles
+
+- **misc**: Add gemini new model, closes [#5546](https://github.com/lobehub/lobe-chat/issues/5546) ([ebdd626](https://github.com/lobehub/lobe-chat/commit/ebdd626))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.47.15](https://github.com/lobehub/lobe-chat/compare/v1.47.14...v1.47.15)
+
+<sup>Released on **2025-01-22**</sup>
+
+#### 💄 Styles
+
+- **misc**: Improve discover model page.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Styles
+
+- **misc**: Improve discover model page, closes [#5544](https://github.com/lobehub/lobe-chat/issues/5544) ([979849c](https://github.com/lobehub/lobe-chat/commit/979849c))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.47.14](https://github.com/lobehub/lobe-chat/compare/v1.47.13...v1.47.14)
+
+<sup>Released on **2025-01-22**</sup>
+
+#### 💄 Styles
+
+- **misc**: Support model list with model fetcher settings.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Styles
+
+- **misc**: Support model list with model fetcher settings, closes [#5540](https://github.com/lobehub/lobe-chat/issues/5540) ([637fbf4](https://github.com/lobehub/lobe-chat/commit/637fbf4))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ### [Version 1.47.13](https://github.com/lobehub/lobe-chat/compare/v1.47.12...v1.47.13)
 
 <sup>Released on **2025-01-21**</sup>
