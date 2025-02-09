@@ -2,6 +2,190 @@
 
 # Changelog
 
+### [Version 1.52.6](https://github.com/lobehub/lobe-chat/compare/v1.52.5...v1.52.6)
+
+<sup>Released on **2025-02-08**</sup>
+
+#### 💄 Styles
+
+- **misc**: Update ZeroOne models.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Styles
+
+- **misc**: Update ZeroOne models, closes [#5904](https://github.com/lobehub/lobe-chat/issues/5904) ([6e8d1a7](https://github.com/lobehub/lobe-chat/commit/6e8d1a7))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.52.5](https://github.com/lobehub/lobe-chat/compare/v1.52.4...v1.52.5)
+
+<sup>Released on **2025-02-08**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Fix changelog modal.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Fix changelog modal, closes [#5906](https://github.com/lobehub/lobe-chat/issues/5906) ([cbc5967](https://github.com/lobehub/lobe-chat/commit/cbc5967))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.52.4](https://github.com/lobehub/lobe-chat/compare/v1.52.3...v1.52.4)
+
+<sup>Released on **2025-02-08**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Fix changelog modal.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Fix changelog modal, closes [#5894](https://github.com/lobehub/lobe-chat/issues/5894) ([2a3840b](https://github.com/lobehub/lobe-chat/commit/2a3840b))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.52.3](https://github.com/lobehub/lobe-chat/compare/v1.52.2...v1.52.3)
+
+<sup>Released on **2025-02-08**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Add Zhipu param limit, Fix translation in variants mode.
+
+#### 💄 Styles
+
+- **misc**: Update Gemini 2.0 models.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Add Zhipu param limit, closes [#5858](https://github.com/lobehub/lobe-chat/issues/5858) ([c299d78](https://github.com/lobehub/lobe-chat/commit/c299d78))
+- **misc**: Fix translation in variants mode, closes [#5878](https://github.com/lobehub/lobe-chat/issues/5878) ([fcbc7b9](https://github.com/lobehub/lobe-chat/commit/fcbc7b9))
+
+#### Styles
+
+- **misc**: Update Gemini 2.0 models, closes [#5777](https://github.com/lobehub/lobe-chat/issues/5777) ([89803a5](https://github.com/lobehub/lobe-chat/commit/89803a5))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.52.2](https://github.com/lobehub/lobe-chat/compare/v1.52.1...v1.52.2)
+
+<sup>Released on **2025-02-08**</sup>
+
+#### 💄 Styles
+
+- **misc**: Add siliconcloud pro models.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Styles
+
+- **misc**: Add siliconcloud pro models, closes [#5851](https://github.com/lobehub/lobe-chat/issues/5851) ([9b321e6](https://github.com/lobehub/lobe-chat/commit/9b321e6))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.52.1](https://github.com/lobehub/lobe-chat/compare/v1.52.0...v1.52.1)
+
+<sup>Released on **2025-02-08**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Fix static relative issues.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Fix static relative issues, closes [#5874](https://github.com/lobehub/lobe-chat/issues/5874) ([419977b](https://github.com/lobehub/lobe-chat/commit/419977b))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+## [Version 1.52.0](https://github.com/lobehub/lobe-chat/compare/v1.51.16...v1.52.0)
+
+<sup>Released on **2025-02-08**</sup>
+
+#### ✨ Features
+
+- **misc**: Refactor the auth condition in Next Auth.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **misc**: Refactor the auth condition in Next Auth, closes [#5866](https://github.com/lobehub/lobe-chat/issues/5866) ([e529108](https://github.com/lobehub/lobe-chat/commit/e529108))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ### [Version 1.51.16](https://github.com/lobehub/lobe-chat/compare/v1.51.15...v1.51.16)
 
 <sup>Released on **2025-02-07**</sup>
